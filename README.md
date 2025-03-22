@@ -2,6 +2,12 @@
 
 Sistema de gestión de recursos hídricos que permite monitorear y controlar el suministro de agua desde diferentes fuentes.
 
+Demo:
+
+https://github.com/user-attachments/assets/6f20643d-d74e-4ed6-a5b0-ba210a7f4ac5
+
+
+
 ## Características Principales
 
 - **Gestión de Fuentes de Agua**
