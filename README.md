@@ -110,9 +110,9 @@ mvn exec:java -Dexec.mainClass="com.aqua.Main"
 ### Distribución de Agua
 1. **Configurar Estrategia**
    - Seleccione la estrategia deseada:
-     - Equitativa: Distribuye el agua por igual
-     - Prioridad: Basada en niveles de prioridad
-     - Justa: Considera necesidades específicas
+     - GOOD Equitativa: Distribuye el agua por igual
+     - POOR: Basada en niveles de prioridad
+     - FAIR: Considera necesidades específicas
 
 2. **Realizar Distribución**
    - Haga clic en "Distribuir Agua"
