@@ -107,18 +107,6 @@ mvn exec:java -Dexec.mainClass="com.aqua.Main"
   - Calidad deteriorada
   - Capacidad crítica
 
-### Distribución de Agua
-1. **Configurar Estrategia**
-   - Seleccione la estrategia deseada:
-     - GOOD Equitativa: Distribuye el agua por igual
-     - POOR: Basada en niveles de prioridad
-     - FAIR: Considera necesidades específicas
-
-2. **Realizar Distribución**
-   - Haga clic en "Distribuir Agua"
-   - El sistema calculará la distribución óptima
-   - Los resultados se mostrarán en la interfaz
-
 ### Generación de Reportes
 1. **Generar Reporte**
    - Haga clic en "Generar Reporte"
@@ -136,21 +124,6 @@ mvn exec:java -Dexec.mainClass="com.aqua.Main"
      - Historial de alertas
      - Estadísticas de distribución
 
-### Solución de Problemas Comunes
-1. **No se muestran alertas**
-   - Verifique que el sistema esté iniciado
-   - Compruebe la configuración de umbrales
-   - Revise la conexión con las fuentes
-
-2. **Error al exportar reportes**
-   - Verifique que Apache POI esté instalado
-   - Compruebe permisos de escritura
-   - Asegúrese que Excel no esté abierto
-
-3. **Problemas de distribución**
-   - Verifique la disponibilidad de agua
-   - Compruebe la configuración de la estrategia
-   - Revise los niveles de prioridad
 
 ## Estructura del Proyecto
 
